@@ -1,0 +1,7 @@
+{
+  "name": "Light Wand: Extreme VFX",
+  "description": "A GPU-accelerated motion graphics experience controlled by your hands using MediaPipe and Three.js.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
